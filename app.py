@@ -148,7 +148,7 @@ def calculate_score(answers):
     return scores
 
 
-st.title('Mini Quiz: Profesi yang Cocok untuk Anda')
+st.title('Potention Quiz - :red[Profesi yang Cocok untuk Anda]')
 
 
 questions = {
